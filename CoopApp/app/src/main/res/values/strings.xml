@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoopApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Left">LeftArrow</string>
+    <string name="Right">RightArrow</string>
+
+</resources>
