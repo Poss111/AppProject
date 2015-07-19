@@ -1,2 +1,2 @@
 # AppProject
-Video Game coop (Daniel Poss &amp; Luke O'Niel
+Video Game coop (Daniel Poss &amp; Luke O'Niel)
